@@ -1,0 +1,193 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/ImageView03"
+        android:layout_width="67dp"
+        android:layout_height="67dp"
+        android:layout_x="118dp"
+        android:layout_y="278dp"
+        android:src="@drawable/circle" />
+
+
+    <ImageView
+        android:id="@+id/ImageView2"
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_x="307dp"
+        android:layout_y="7dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="28dp"
+        android:layout_height="wrap_content"
+        android:layout_x="318dp"
+        android:layout_y="22dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="2" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_x="216dp"
+        android:layout_y="6dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="26dp"
+        android:layout_height="wrap_content"
+        android:layout_x="226dp"
+        android:layout_y="18dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="1" />
+
+    <ImageView
+        android:id="@+id/ImageView6"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_x="382dp"
+        android:layout_y="29dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="33dp"
+        android:layout_height="wrap_content"
+        android:layout_x="393dp"
+        android:layout_y="42dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="3" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_x="409dp"
+        android:layout_y="87dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="26dp"
+        android:layout_height="wrap_content"
+        android:layout_x="418dp"
+        android:layout_y="99dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="4" />
+
+    <ImageView
+        android:id="@+id/ImageView5"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_x="404dp"
+        android:layout_y="163dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="28dp"
+        android:layout_height="wrap_content"
+        android:layout_x="413dp"
+        android:layout_y="174dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="5" />
+
+    <ImageView
+        android:id="@+id/ImageView02"
+        android:layout_width="44dp"
+        android:layout_height="36dp"
+        android:layout_x="156dp"
+        android:layout_y="105dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="31dp"
+        android:layout_height="wrap_content"
+        android:layout_x="170dp"
+        android:layout_y="114dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="9" />
+
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="40dp"
+        android:layout_height="38dp"
+        android:layout_x="196dp"
+        android:layout_y="170dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="26dp"
+        android:layout_height="wrap_content"
+        android:layout_x="205dp"
+        android:layout_y="180dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="8" />
+
+    <ImageView
+        android:id="@+id/ImageView3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_x="337dp"
+        android:layout_y="199dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="28dp"
+        android:layout_height="wrap_content"
+        android:layout_x="346dp"
+        android:layout_y="210dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="6" />
+
+    <ImageView
+        android:id="@+id/ImageView7"
+        android:layout_width="39dp"
+        android:layout_height="39dp"
+        android:layout_x="261dp"
+        android:layout_y="198dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="29dp"
+        android:layout_height="wrap_content"
+        android:layout_x="269dp"
+        android:layout_y="209dp"
+        android:clickable="true"
+        android:ems="10"
+        android:text="7" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_x="166dp"
+        android:layout_y="44dp"
+        android:src="@drawable/circle" />
+
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="32dp"
+        android:layout_height="wrap_content"
+        android:layout_x="174dp"
+        android:layout_y="55dp"
+        android:clickable="true"
+        android:text="0" />
+
+</AbsoluteLayout>
